@@ -1,8 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+# U.S. Treasury Department Free API using REACT
 
 In the project directory, you can run:
 
