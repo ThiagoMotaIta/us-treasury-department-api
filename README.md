@@ -7,7 +7,7 @@ In the project directory, you can run:
 # Real print from live application ☕️
 
 - Check Deposit Form
-<img src="" width="100%" />
+<img src="https://raw.githubusercontent.com/ThiagoMotaIta/us-treasury-department-api/refs/heads/main/public/live-print.png" width="100%" />
 
 
 
